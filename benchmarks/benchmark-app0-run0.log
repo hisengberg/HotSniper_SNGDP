@@ -1,0 +1,10 @@
+[PARSEC] Benchmarks to run: blackscholes
+
+[PARSEC] [========== Running benchmark blackscholes ==========]
+[PARSEC] Setting up run directory.
+[PARSEC] Unpacking benchmark input 'simsmall'.
+in_4K.txt
+[PARSEC] Running '/home/share/gjc_demo/HotSniper_SNGDP/record-trace --routine-tracing -o /tmp/tmptjQF1W/run_benchmarks -e 1 -r 1 -s 0 -- /home/share/gjc_demo/HotSniper_SNGDP/benchmarks/parsec/parsec-2.1/pkgs/apps/blackscholes/inst/amd64-linux.gcc-sniper/bin/blackscholes 15 in_4K.txt prices.txt':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 2.1
+[HOOKS] PARSEC Hooks Version 1.2

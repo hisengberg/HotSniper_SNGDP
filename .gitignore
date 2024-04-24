@@ -1,8 +1,26 @@
+
+!benchmarks/*
+!benchmarks/*/*
+!benchmarks/*/*/*
+!benchmarks/*/*/*/*
+!benchmarks/*/*/*/*/*
+!benchmarks/*/*/*/*/*/*
+!benchmarks/*/*/*/*/*/*/*
+!benchmarks/*/*/*/*/*/*/*/*
+!benchmarks/*/*/*/*/*/*/*/*/*
+!benchmarks/*/*/*/*/*/*/*/*/*/*
+!benchmarks/*/*/*/*/*/*/*/*/*/*/*
+!benchmarks/*/*/*/*/*/*/*/*/*/*/*/*
+!benchmarks/*/*/*/*/*/*/*/*/*/*/*/*/*
+!benchmarks/*/*/*/*/*/*/*/*/*/*/*/*/*/*
+
+
 # object files
 *.d
 *.o
 *.pyc
 *.a
+
 
 # My_results
 My_results
@@ -74,3 +92,18 @@ sift
 xed
 pin.tar.gz
 pinplay-drdebug-3.2-pin-3.2-81205-gcc-linux.tar.gz
+
+!benchmarks/*
+!benchmarks/*/*
+!benchmarks/*/*/*
+!benchmarks/*/*/*/*
+!benchmarks/*/*/*/*/*
+!benchmarks/*/*/*/*/*/*
+!benchmarks/*/*/*/*/*/*/*
+!benchmarks/*/*/*/*/*/*/*/*
+!benchmarks/*/*/*/*/*/*/*/*/*
+!benchmarks/*/*/*/*/*/*/*/*/*/*
+!benchmarks/*/*/*/*/*/*/*/*/*/*/*
+!benchmarks/*/*/*/*/*/*/*/*/*/*/*/*
+!benchmarks/*/*/*/*/*/*/*/*/*/*/*/*/*
+!benchmarks/*/*/*/*/*/*/*/*/*/*/*/*/*/*
